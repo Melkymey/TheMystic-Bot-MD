@@ -35,7 +35,7 @@ global.owner = [
 global.suittag = ['6281245695410'];
 global.prems = ['6281245695410'];
 
-global.packname = '(☞Ell)☞';
+global.packname = '(Ell)';
 global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
 global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
 global.titulowm = '🤖 ＴＨＥ ＭＹＳＴＩＣ － ＢＯＴ 🤖';
