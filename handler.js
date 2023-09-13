@@ -1179,8 +1179,8 @@ const messageText = `
  ❰ ⚠️ ❱ *¡USUARIO BANEADO!* ❰ ⚠️ ❱
 —◉ *Aviso ${messageNumber}/3 (Total: 3)*
 —◉ ${user.bannedReason ? `\n*Motivo:* ${user.bannedReason}` : '*Motivo:* Sin especificar'}
-—◉ *Si consideras que esto es un error y cuentas con pruebas, puedes comunicarte con el propietario del Bot para apelar la suspensión.*
-—◉ *Contacto para apelaciones:* wa.me/5219992095479
+—◉ *Anda Telah Di Ban Oleh Owner.*
+—◉ *Silakan Chet Owner Untuk Membuka Ban:* wa.me/6281245695410
 ╚═════════════════════════╝
                `.trim();
               m.reply(messageText);
